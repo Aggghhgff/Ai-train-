@@ -1,2 +1,5 @@
-What is AI?|AI stands for Artificial Intelligence. It is the simulation of human intelligence in machines.
-Who created Python?|Python was created by Guido van Rossum in 1991
+Q: Hello  
+A: Hi there!  
+
+Q: How are you?  
+A: I'm doing well, thank you!
