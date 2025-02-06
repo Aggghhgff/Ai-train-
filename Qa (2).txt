@@ -1,0 +1,635 @@
+Q: Hello  
+A: Hi there!  
+
+Q: How are you?  
+A: I'm doing well, thank you!
+
+Q: hi, how are you doing?  
+A: i'm fine. how about yourself?
+
+Q: i'm fine. how about yourself?  
+A: i'm pretty good. thanks for asking.
+
+Q: i'm pretty good. thanks for asking.  
+A: no problem. so how have you been?
+
+Q: no problem. so how have you been?  
+A: i've been great. what about you?
+
+Q: i've been great. what about you?  
+A: i've been good. i'm in school right now.
+
+Q: i've been good. i'm in school right now.  
+A: what school do you go to?
+
+Q: what school do you go to?  
+A: i go to pcc.
+
+Q: i go to pcc.  
+A: do you like it there?
+
+Q: do you like it there?  
+A: it's okay. it's a really big campus.
+
+Q: it's okay. it's a really big campus.  
+A: good luck with school.
+
+Q: good luck with school.  
+A: thank you very much.
+
+Q: how's it going?  
+A: i'm doing well. how about you?
+
+Q: i'm doing well. how about you?  
+A: never better, thanks.
+
+Q: never better, thanks.  
+A: so how have you been lately?
+
+Q: so how have you been lately?  
+A: i've actually been pretty good. you?
+
+Q: i've actually been pretty good. you?  
+A: i'm actually in school right now.
+
+Q: i'm actually in school right now.  
+A: which school do you attend?
+
+Q: which school do you attend?  
+A: i'm attending pcc right now.
+
+Q: i'm attending pcc right now.  
+A: are you enjoying it there?
+
+Q: are you enjoying it there?  
+A: it's not bad. there are a lot of people there.
+
+Q: it's not bad. there are a lot of people there.  
+A: good luck with that.
+
+Q: good luck with that.  
+A: thanks.
+
+Q: how are you doing today?  
+A: i'm doing great. what about you?
+
+Q: i'm doing great. what about you?  
+A: i'm absolutely lovely, thank you.
+
+Q: i'm absolutely lovely, thank you.  
+A: everything's been good with you?
+
+Q: everything's been good with you?  
+A: i haven't been better. how about yourself?
+
+Q: i haven't been better. how about yourself?  
+A: i started school recently.
+
+Q: i started school recently.  
+A: where are you going to school?
+
+Q: where are you going to school?  
+A: i'm going to pcc.
+
+Q: i'm going to pcc.  
+A: how do you like it so far?
+
+Q: how do you like it so far?  
+A: i like it so far. my classes are pretty good right now.
+
+Q: i like it so far. my classes are pretty good right now.  
+A: i wish you luck.
+
+Q: it's an ugly day today.  
+A: i know. i think it may rain.
+
+Q: i know. i think it may rain.  
+A: it's the middle of summer, it shouldn't rain today.
+
+Q: it's the middle of summer, it shouldn't rain today.  
+A: that would be weird.
+
+Q: that would be weird.  
+A: yeah, especially since it's ninety degrees outside.
+
+Q: yeah, especially since it's ninety degrees outside.  
+A: i know, it would be horrible if it rained and it was hot outside.
+
+Q: i know, it would be horrible if it rained and it was hot outside.  
+A: yes, it would be.
+
+Q: yes, it would be.  
+A: i really wish it wasn't so hot every day.
+
+Q: i really wish it wasn't so hot every day.  
+A: me too. i can't wait until winter.
+
+Q: me too. i can't wait until winter.  
+A: i like winter too, but sometimes it gets too cold.
+
+Q: i like winter too, but sometimes it gets too cold.  
+A: i'd rather be cold than hot.
+
+Q: i'd rather be cold than hot.  
+A: me too.
+
+Q: it doesn't look very nice outside today.  
+A: you're right. i think it's going to rain later.
+
+Q: you're right. i think it's going to rain later.  
+A: in the middle of the summer, it shouldn't be raining.
+
+Q: in the middle of the summer, it shouldn't be raining.  
+A: that wouldn't seem right.
+
+Q: that wouldn't seem right.  
+A: considering that it's over ninety degrees outside, that would be weird.
+
+Q: considering that it's over ninety degrees outside, that would be weird.  
+A: exactly, it wouldn't be nice if it started raining. it's too hot.
+
+Q: exactly, it wouldn't be nice if it started raining. it's too hot.  
+A: i know, you're absolutely right.
+
+Q: i know, you're absolutely right.  
+A: i wish it would cool off one day.
+
+Q: i wish it would cool off one day.  
+A: that's how i feel, i want winter to come soon.
+
+Q: that's how i feel, i want winter to come soon.  
+A: i enjoy the winter, but it gets really cold sometimes.
+
+Q: i enjoy the winter, but it gets really cold sometimes.  
+A: i know what you mean, but i'd rather be cold than hot.
+
+Q: i know what you mean, but i'd rather be cold than hot.  
+A: that's exactly how i feel.
+
+Q: i wish it was a nicer day today.  
+A: that is true. i hope it doesn't rain.
+
+Q: that is true. i hope it doesn't rain.  
+A: it wouldn't rain in the middle of the summer.
+
+Q: it wouldn't rain in the middle of the summer.  
+A: it wouldn't seem right if it started raining right now.
+
+Q: it wouldn't seem right if it started raining right now.  
+A: it would be weird if it started raining in ninety degree weather.
+
+Q: it would be weird if it started raining in ninety degree weather.  
+A: any rain right now would be pointless.
+
+Q: any rain right now would be pointless.  
+A: that's right, it really would be.
+
+Q: that's right, it really would be.  
+A: i want it to cool down some.
+
+Q: i want it to cool down some.  
+A: i know what you mean, i can't wait until it's winter.
+
+Q: i know what you mean, i can't wait until it's winter.  
+A: winter is great. i wish it didn't get so cold sometimes though.
+
+Q: winter is great. i wish it didn't get so cold sometimes though.  
+A: i would rather deal with the winter than the summer.
+
+Q: it's such a nice day.  
+A: yes, it is.
+
+Q: yes, it is.  
+A: it looks like it may rain soon.
+
+Q: it looks like it may rain soon.  
+A: yes, and i hope that it does.
+
+Q: yes, and i hope that it does.  
+A: why is that?
+
+Q: why is that?  
+A: i really love how rain clears the air.
+
+Q: i really love how rain clears the air.  
+A: me too. it always smells so fresh after it rains.
+
+Q: me too. it always smells so fresh after it rains.  
+A: yes, but i love the night air after it rains.
+
+Q: yes, but i love the night air after it rains.  
+A: really? why is it?
+
+Q: really? why is it?  
+A: because you can see the stars perfectly.
+
+Q: because you can see the stars perfectly.  
+A: i really hope it rains today.
+
+Q: i really hope it rains today.  
+A: yeah, me too.
+
+Q: isn't it a nice day?  
+A: it really is.
+
+Q: it really is.  
+A: it seems that it may rain today.
+
+Q: it seems that it may rain today.  
+A: hopefully it will.
+
+Q: hopefully it will.  
+A: how come?
+
+Q: how come?  
+A: i like how clear the sky gets after it rains.
+
+Q: i like how clear the sky gets after it rains.  
+A: i feel the same way. it smells so good after it rains.
+
+Q: i feel the same way. it smells so good after it rains.  
+A: i especially love the night air when it rains.
+
+Q: i especially love the night air when it rains.  
+A: really? why?
+
+Q: really? why?  
+A: the stars look so much closer after it rains.
+
+Q: the stars look so much closer after it rains.  
+A: i really want it to rain today.
+
+Q: i really want it to rain today.  
+A: yeah, so do i.
+
+Q: don't you think it's nice out?  
+A: yes, i think so too.
+
+Q: yes, i think so too.  
+A: i think that it's going to rain.
+
+Q: i think that it's going to rain.  
+A: i hope that it does rain.
+
+Q: i hope that it does rain.  
+A: you like the rain?
+
+Q: you like the rain?  
+A: the sky looks so clean after it rains. i love it.
+
+Q: the sky looks so clean after it rains. i love it.  
+A: i understand. rain does make it smell cleaner.
+
+Q: i understand. rain does make it smell cleaner.  
+A: i love most how it is at night after it rains.
+
+Q: i love most how it is at night after it rains.  
+A: how come?
+
+Q: how come?  
+A: you can see the stars so much more clearly after it rains.
+
+Q: you can see the stars so much more clearly after it rains.  
+A: i would love for it to rain today.
+
+Q: i really want to go to the beach this weekend.  
+A: that sounds like fun. what's the weather going to be like?
+
+Q: that sounds like fun. what's the weather going to be like?  
+A: i heard that it's going to be warm this weekend.
+
+Q: i heard that it's going to be warm this weekend.  
+A: is it going to be perfect beach weather?
+
+Q: is it going to be perfect beach weather?  
+A: i believe so.
+
+Q: i believe so.  
+A: good. i hope it doesn't cool off this weekend.
+
+Q: good. i hope it doesn't cool off this weekend.  
+A: i know. i really want to go to the beach.
+
+Q: i know. i really want to go to the beach.  
+A: but you know that california weather is really unpredictable.
+
+Q: but you know that california weather is really unpredictable.  
+A: you're right. one minute it's hot, and then the next minute it's cold.
+
+Q: you're right. one minute it's hot, and then the next minute it's cold.  
+A: i really wish the weather would just stay the same.
+
+Q: i really wish the weather would just stay the same.  
+A: i do too. that way we can have our activities planned ahead of time.
+
+Q: i do too. that way we can have our activities planned ahead of time.  
+A: yeah, that would make things a lot easier.
+
+Q: i would like to take a trip to the beach this weekend.  
+A: a trip to the beach would be fun. how is the weather going to be?
+
+Q: a trip to the beach would be fun. how is the weather going to be?  
+A: the forecast says that it will be warm on the weekend.
+
+Q: the forecast says that it will be warm on the weekend.  
+A: so do you think it'll be perfect weather for the beach?
+
+Q: so do you think it'll be perfect weather for the beach?  
+A: it sounds like it will be.
+
+Q: it sounds like it will be.  
+A: i really hope it doesn't get cold.
+
+Q: i really hope it doesn't get cold.  
+A: that would ruin things, i want to go so badly.
+
+Q: that would ruin things, i want to go so badly.  
+A: the weather in california is unpredictable, so you never know.
+
+Q: the weather in california is unpredictable, so you never know.  
+A: that is true. the weather is constantly changing.
+
+Q: that is true. the weather is constantly changing.  
+A: it would be nice if the weather would never change.
+
+Q: it would be nice if the weather would never change.  
+A: that would be great, then we could plan things sooner.
+
+Q: that would be great, then we could plan things sooner.  
+A: true. predictable weather would make life easier.
+
+Q: it would be nice to go to the beach sometime this weekend.  
+A: what's the weather going to be like? i may want to go too.
+
+Q: what's the weather going to be like? i may want to go too.  
+A: the weather this weekend is supposed to be warm.
+
+Q: the weather this weekend is supposed to be warm.  
+A: will it be good beach weather?
+
+Q: will it be good beach weather?  
+A: i think it will be.
+
+Q: i think it will be.  
+A: it wouldn't be good if it got cold this weekend.
+
+Q: it wouldn't be good if it got cold this weekend.  
+A: i want this trip to be perfect, i hope it stays warm.
+
+Q: i want this trip to be perfect, i hope it stays warm.  
+A: this california weather is so uncertain, it's impossible to know what'll happen.
+
+Q: this california weather is so uncertain, it's impossible to know what'll happen.  
+A: i know. every day the weather seems different.
+
+Q: i know. every day the weather seems different.  
+A: i would love it if it wasn't always so unpredictable.
+
+Q: i would love it if it wasn't always so unpredictable.  
+A: that would make it easier for us to make plans.
+
+Q: hello, may i speak to alice please?  
+A: this is she. how's it going?
+
+Q: this is she. how's it going?  
+A: i've been trying to call you all day.
+
+Q: i've been trying to call you all day.  
+A: sorry about that. i was cleaning up.
+
+Q: sorry about that. i was cleaning up.  
+A: it's okay.
+
+Q: it's okay.  
+A: so what were you calling me about?
+
+Q: so what were you calling me about?  
+A: oh, i just wanted to see if you wanted to hang out tomorrow.
+
+Q: oh, i just wanted to see if you wanted to hang out tomorrow.  
+A: sure, what did you want to do?
+
+Q: sure, what did you want to do?  
+A: maybe we can go see a movie or something.
+
+Q: maybe we can go see a movie or something.  
+A: that sounds like fun. let's do it.
+
+Q: that sounds like fun. let's do it.  
+A: i'll see you tomorrow then.
+
+Q: i'll see you tomorrow then.  
+A: see you then. goodbye.
+
+Q: hi, how are you. is alice there?  
+A: speaking. what's up?
+
+Q: speaking. what's up?  
+A: why haven't you answered the phone?
+
+Q: why haven't you answered the phone?  
+A: my bad, i had chores to do.
+
+Q: my bad, i had chores to do.  
+A: that's all right.
+
+Q: that's all right.  
+A: what was the reason for your call?
+
+Q: what was the reason for your call?  
+A: i want to do something tomorrow with you.
+
+Q: i want to do something tomorrow with you.  
+A: sounds good. what did you have in mind?
+
+Q: sounds good. what did you have in mind?  
+A: i was thinking about seeing a movie.
+
+Q: i was thinking about seeing a movie.  
+A: okay, let's go see a movie.
+
+Q: okay, let's go see a movie.  
+A: until then.
+
+Q: until then.  
+A: talk to you later.
+
+Q: is alice available?  
+A: you're talking to her.
+
+Q: you're talking to her.  
+A: i've called you a hundred times today.
+
+Q: i've called you a hundred times today.  
+A: i was busy doing something. i apologize.
+
+Q: i was busy doing something. i apologize.  
+A: no problem.
+
+Q: no problem.  
+A: did you need something?
+
+Q: did you need something?  
+A: do you want to do something tomorrow?
+
+Q: do you want to do something tomorrow?  
+A: is there somewhere special you wanted to go?
+
+Q: is there somewhere special you wanted to go?  
+A: how about a movie?
+
+Q: how about a movie?  
+A: a movie sounds good.
+
+Q: a movie sounds good.  
+A: call me tomorrow then.
+
+Q: have you seen the new girl in school?  
+A: no, i haven't.
+
+Q: no, i haven't.  
+A: she's really pretty.
+
+Q: she's really pretty.  
+A: describe her to me.
+
+Q: describe her to me.  
+A: she's not too tall.
+
+Q: she's not too tall.  
+A: well, how tall is she?
+
+Q: well, how tall is she?  
+A: she's about five feet even.
+
+Q: she's about five feet even.  
+A: what does she look like, though?
+
+Q: what does she look like, though?  
+A: she has pretty light brown eyes.
+
+Q: she has pretty light brown eyes.  
+A: i may know which girl you're talking about.
+
+Q: i may know which girl you're talking about.  
+A: so you have seen her around?
+
+Q: so you have seen her around?  
+A: yes, i have.
+
+Q: there's a new girl in school, have you seen her yet?  
+A: i haven't seen her yet.
+
+Q: i haven't seen her yet.  
+A: i think that she is very pretty.
+
+Q: i think that she is very pretty.  
+A: tell me how she looks.
+
+Q: tell me how she looks.  
+A: she's kind of short.
+
+Q: she's kind of short.  
+A: what height is she?
+
+Q: what height is she?  
+A: she's probably about five feet.
+
+Q: she's probably about five feet.  
+A: that's nice, but tell me what she looks like.
+
+Q: that's nice, but tell me what she looks like.  
+A: the first thing i noticed was her beautiful brown eyes.
+
+Q: the first thing i noticed was her beautiful brown eyes.  
+A: i think i might've bumped into her before.
+
+Q: i think i might've bumped into her before.  
+A: are you telling me that you've seen her before?
+
+Q: are you telling me that you've seen her before?  
+A: i believe so.
+
+Q: have you met the new girl?  
+A: no. have you?
+
+Q: no. have you?  
+A: she's one of the prettiest girls at the school.
+
+Q: she's one of the prettiest girls at the school.  
+A: what does she look like?
+
+Q: what does she look like?  
+A: well, she's quite short.
+
+Q: well, she's quite short.  
+A: how tall would you say that she is?
+
+Q: how tall would you say that she is?  
+A: i would say she's only five feet.
+
+Q: i would say she's only five feet.  
+A: what about her facial features?
+
+Q: what about her facial features?  
+A: she has light brown eyes, absolutely beautiful.
+
+Q: she has light brown eyes, absolutely beautiful.  
+A: i think i know who you're talking about.
+
+Q: i think i know who you're talking about.  
+A: have you seen her?
+
+Q: why weren't you at school yesterday?  
+A: i wasn't really feeling well.
+
+Q: i wasn't really feeling well.  
+A: what was wrong with you?
+
+Q: what was wrong with you?  
+A: my stomach was upset.
+
+Q: my stomach was upset.  
+A: do you feel better now?
+
+Q: do you feel better now?  
+A: i don't really feel too well yet.
+
+Q: i don't really feel too well yet.  
+A: do you want anything to make you feel better?
+
+Q: do you want anything to make you feel better?  
+A: no, thanks. i already took some medicine.
+
+Q: no, thanks. i already took some medicine.  
+A: i hope you feel better.
+
+Q: i hope you feel better.  
+A: thank you.
+
+Q: what reason do you have for missing school?  
+A: i was sick.
+
+Q: i was sick.  
+A: how were you sick?
+
+Q: how were you sick?  
+A: i had a stomachache.
+
+Q: i had a stomachache.  
+A: did it get any better?
+
+Q: did it get any better?  
+A: i'm still feeling under the weather.
+
+Q: i'm still feeling under the weather.  
+A: would you like anything for your stomach?
+
+Q: would you like anything for your stomach?  
+A: i took something earlier.
+
+Q: i took something earlier.  
+A: get better.
+
+Q: get better.  
+A: thanks a lot.
